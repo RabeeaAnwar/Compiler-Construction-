@@ -1,0 +1,23 @@
+##a=yy.a(3 mux 4) or a suma 5
+##b a[5]=new b[function(ken A) suma 2] $
+##dig a=(a suma b)$
+##function(a.fun(3) mux 4 % a.a[3])$
+##si(a.fun(3) mux 4 % a.a[3])[ si(a.a())[] a suma b $] sino []
+##check(3)[test 3: a suma b $ break$ test 3: backup: check(3)[] ]
+##until(a.fun(3) mux 4 % a.a[3])[]
+##to(dig i=0 $ i<5 $ i=i suma 1 )[ function(ken A) suma 2 $]
+##dig fun()[si(a.fun(3) mux 4 % a.a[3])[ si(a.a())[] a suma b $] sino []]
+##hide stable group class1 interned a,b inherits c [ dig fun()[si(a.fun(3) mux 4 % a.a[3])[ si(a.a())[] a suma b $] sino []] group class2 [] ]
+##group class2 [ empty a()[]]
+##group class2 [ dig a()[a suma b $ dig a dig a$ ]]
+##local stable group class1 interned a,b inherits c [ local stable empty main()[] dig fun(H a,A a,A b,b b,alpha d)[si(a.fun(a3).fun(4).fun(44 mux 3) mux 4 % a.a[3])[ si(a.a()=b)[] a suma b $] sino [ beta a $ ]] group class2 [ empty a()[a=b suma c $] local stable sculpture a1[ empty a1()$ empty a1(dig a1,a1 a1)$] ]  ]
+##group class2 [ empty a()[] local stable sculpture a1[ empty a1()$ empty a1(dig a1,a1 a1)$]]
+##dig a -> 4 $
+##dig b = 4 $
+##A g   $
+local stable sculpture a1[ ]
+local stable group class1 [  empty fun()[si(5 < 4 )[     check(3)[test 3: break$ test 3: backup: to(dig i=0 $ i<5 $ i=i suma 1 )[ ] ]           ] ] ]
+group class2 [ group d inherits class1[  ]  dig a $ ]
+##group class1 [  ]
+##group class2 inherits class1[ ]
+##group class3 [ class1 a = new class1() $ ]
